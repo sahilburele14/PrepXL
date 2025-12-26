@@ -108,10 +108,6 @@ VITE_API_BASE_URL=https://api.prepxl.app
 ```bash
 npm run dev
 ```
-
-5. **Open your browser**
-http://localhost:5173
-
 ---
 
 ## 📁 Project Structure
@@ -207,21 +203,7 @@ Make sure to set these in your deployment platform:
 
 ---
 
-## 📸 Screenshots
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x500/4b4bff/ffffff?text=Dashboard)
-
-### Resume Analyzer
-![Resume Analyzer](https://via.placeholder.com/800x500/4b4bff/ffffff?text=Resume+Analyzer)
-
-### Interview Practice
-![Interview Practice](https://via.placeholder.com/800x500/4b4bff/ffffff?text=Interview+Practice)
-
-### Job Search
-![Job Search](https://via.placeholder.com/800x500/4b4bff/ffffff?text=Job+Search)
-
----
 
 ## 🤝 Contributing
 
@@ -285,5 +267,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support, email sahilburele6789@gmail.com
+
 
 
